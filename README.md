@@ -1,5 +1,5 @@
 # Dencrypt
-Encrypt - Decrypt Text Chains | Java Proyect | Algorithms - Unicode - Caesar
+Encrypt - Decrypt Text Chains | Java Proyect | Algorithms: Unicode - Caesar
 
 Dencrypt is an project with learning propouses. Allows to encryt text chains with two diferent algorithms:
 - Unicode
@@ -11,7 +11,7 @@ Contain two execution modes:
 - "GUI" mode | use java -jar Dencrypt.jar (Without arguments)*
 - Args mode | use java -jar Dencrypt.jar [args (-help, -mode, -key, -alg, -in, -out)]*
 
-If you do not know the arguments use -help.
+To know more about the arguments use -help.
 
 Requires JRE 1.8.0 *
 
